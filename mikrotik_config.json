@@ -1,0 +1,6 @@
+{
+  "host": "192.168.88.1",
+  "username": "api_user",
+  "password": "your_secure_password",
+  "port": 8728
+}
